@@ -1,16 +1,34 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi there, I'm Iñigo Imaz👋</h1>
+<p>I am a software developer interested in the latest AI trends and their impact.</p>
 
-<!--
-**inimaz/inimaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [codecarbon](https://github.com/mlco2/codecarbon)
+- 🌱 I’m currently learning about AI and its applications
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/inigo-imaz-chacon">
+<img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">⚒️ GitHub Analytics ⚒️</h2>
+
+<p align="center">
+<a href="https://github.com/inimaz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inimaz&layout=donut&theme=algolia&hide=Jupyter%20Notebook,scss"/>
+</a>
+<a href="https://github.com/inimaz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inimaz&show_icons=true&theme=algolia"/>
+</a>
+</p>
+
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,react" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=docker,terraform,kubernetes,jenkins,github,gitlab,git" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,rabbitmq,redis" />
+    <br>
+</div>
