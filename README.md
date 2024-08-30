@@ -1,3 +1,5 @@
+
+![Inimaz_-_Banner](https://github.com/user-attachments/assets/0da559f5-e79a-40fa-996d-84c67b8148f5)
 # Hi there, I'm Iñigo Imaz👋
 
 I am a software developer interested in the latest AI trends and their impact.</p>
