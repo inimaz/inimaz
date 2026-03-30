@@ -4,7 +4,11 @@
 
 I am a software developer interested in the latest AI trends and their impact.</p>
 
-- 🔭 I’m currently working on [codecarbon](https://github.com/mlco2/codecarbon)
+# Current projects
+- 🔭 Mantainer of [codecarbon](https://github.com/mlco2/codecarbon)
+- 🔭 [Vscode extension for CodeCarbon](https://github.com/mlco2/vscode-extension-codecarbon)
+
+# About me
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 I’m currently learning about AI and its applications
 - 💬 Ask me about anything, I am happy to help
