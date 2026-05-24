@@ -6,6 +6,7 @@ I am a software developer interested in the latest AI trends and their impact.</
 
 # Current projects
 - 🔭 Mantainer of [codecarbon](https://github.com/mlco2/codecarbon)
+- 🔭 [Mothertoken](https://github.com/inimaz/mothertoken) - Find out the mother tongue of your LLM.
 - 🔭 [Vscode extension for CodeCarbon](https://github.com/mlco2/vscode-extension-codecarbon)
 
 # About me
